@@ -1,4 +1,4 @@
-Disable Content-Security-Policy (CSP) in Chromium browers for web application testing.
+Always Disable Content-Security-Policy (CSP) in Chromium browers for web application testing.
 
 [Install via the Chrome Web Store](https://chrome.google.com/webstore/detail/disable-content-security/ieelmcmcagommplceebfedjlakkhpden)
 
@@ -11,3 +11,4 @@ Use this only as a last resort. Disabling CSP means disabling features designed 
 
 * [Phil Grayson](https://github.com/PhilGrayson)
 * [Denis Gorbachev](https://github.com/DenisGorbachev)
+* [vaaski](https://github.com/vaaski)

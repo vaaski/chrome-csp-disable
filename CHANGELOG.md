@@ -1,3 +1,6 @@
+1.0.7 [vaaskis fork]
+  - Changed default state and some stuff
+
 1.0.6
   - Fix the extension not working for https://web.whatsapp.com
 
